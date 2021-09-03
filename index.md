@@ -1,3 +1,11 @@
+# Shivani Venkatraman's First CS193 Homework
+
+## My Favorite Things About CS193
+- My TAs/instructors seem really nice.
+- The class seems designed to help me learn and do better.
+- The class starts off with a get-to-know-you actuvity, which is nice and helps me learn who's who. 
+- The fact that I'm moderately excited to learn what we're going to do next!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
